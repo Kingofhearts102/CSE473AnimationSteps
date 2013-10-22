@@ -1,0 +1,4 @@
+Content\Digger.xnb
+Content\FBX\B7D23124\Digger.fbm\RightLogo_0.xnb
+Content\FBX\B7D23124\Digger.fbm\LeftLogo_0.xnb
+Content\FBX\B7D23124\Digger.fbm\Company_0.xnb
